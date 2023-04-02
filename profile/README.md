@@ -8,14 +8,13 @@ I'm constantly learning and expanding my skills, I strive to push the boundaries
 ```javascript
 const Contact = {
     Email: [
-        {Type: "Personal", Value: "scxipted@gmail.com"},
+        {Type: "Personal", Value: "antoniobastos.za@gmail.com"},
         {Type: "Professional", Value: "n/a"}
     ],
     Social: [
         {Type: "Twitter", Value: "@a_ntoniobastos"},
         {Type: "Instagram", Value: "@a.ntoniobastos"},
         {Type: "Polywork", Value: "@antoniobastos"}
-    ],
-    Card: "https://scxipted.tech/social"
+    ]
 }
 ```
