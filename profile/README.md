@@ -8,7 +8,7 @@ I'm constantly learning and expanding my skills, I strive to push the boundaries
 ```javascript
 const Contact = {
     Email: [
-        {Type: "Personal", Value: "antoniobastos.za@gmail.com"},
+        {Type: "Personal", Value: "solvit.pt@gmail.com"},
         {Type: "Professional", Value: "n/a"}
     ],
     Social: [
