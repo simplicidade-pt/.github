@@ -1,4 +1,4 @@
-![scxbanner](https://user-images.githubusercontent.com/51927118/215193003-a9067e5c-c08a-4264-89f4-24f0174f37fa.png)
+![scxbanner](https://raw.githubusercontent.com/Scxipted-Tech/.github/main/profile/Solvit.png)
 # 💻 Empowering your vision, one line of code at a time
 As a self-taught developer hobbyist based in Portugal, I have a deep passion for development and the process of bringing ideas to life. I take great care in ensuring the quality, user experience, and overall structure of the projects I create are top-notch. 
 
